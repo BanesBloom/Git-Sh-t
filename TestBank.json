@@ -8,8 +8,8 @@
   }
   {
      "Name": "ComplexResponse"
-     "Params": [],
-     "Contents": "Hello"
+     "Params": [ "Message", "Addon" ],
+     "Contents": "{0}{1}"
   }
  ]
 }
