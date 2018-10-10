@@ -9,7 +9,7 @@
   {
      "Name": "ComplexResponse"
      "Params": [],
-     "Contents": "{Hello}"
+     "Contents": "Hello"
   }
  ]
 }
