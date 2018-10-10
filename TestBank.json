@@ -1,0 +1,9 @@
+{
+"Defines": [
+  {
+     "Name": "UserMessageSend",
+     "Params": [ "Message" ],
+     "Content": "{0}"
+  }
+ ]
+}
