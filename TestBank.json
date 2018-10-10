@@ -9,7 +9,7 @@
   {
      "Name": "ComplexResponse"
      "Params": [],
-     "Contents": "{call::SimpleResponse(HelloThere);}"
+     "Contents": "{Hello}"
   }
  ]
 }
