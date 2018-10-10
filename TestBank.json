@@ -8,8 +8,8 @@
   }
   {
      "Name": "ComplexResponse"
-     "Params": [ "Message", "Quote" ],
-     "Contents": "{0}{1}"
+     "Params": [],
+     "Contents": "call::SimpleResponse();"
   }
  ]
 }
