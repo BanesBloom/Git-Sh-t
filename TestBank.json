@@ -1,9 +1,15 @@
 {
-"Defines": [
+"Defines":
+ [
   {
      "Name": "SimpleResponse",
      "Params": [ "Message" ],
      "Content": "{0}"
+  }
+  {
+     "Name": "ComplexResponse"
+     "Params": [ "Message", "Quote" ],
+     "Contents": "{0}{1}"
   }
  ]
 }
